@@ -1,214 +1,214 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
 	<activities>
-		<activity id="http://6pmQ1427EBg_course_id" type="http://adlnet.gov/expapi/activities/course">
-			<name lang="und">TM Step</name>
+		<activity id="http://6WXF213AJeH_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">TM 800x480_android</name>
 			<description lang="und" />
 			<launch lang="und">story.html</launch>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5agiudA8cY0" type="http://adlnet.gov/expapi/activities/objective">
-			<name lang="und">TM Step</name>
-			<description lang="und">TM Step</description>
+		<activity id="http://6WXF213AJeH_course_id/5agiudA8cY0" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">TM 800x480_android</name>
+			<description lang="und">TM 800x480_android</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5caYKrvCWBV" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5caYKrvCWBV" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Untitled Slide</name>
 			<description lang="und">Untitled Slide</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/65c7g6LlKai" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/65c7g6LlKai" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Start</name>
 			<description lang="und">Start</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5sCDgF5YsIS" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5sCDgF5YsIS" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Start</name>
 			<description lang="und">Start</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5fGOB9eF7lV" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5fGOB9eF7lV" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Quick</name>
 			<description lang="und">Quick</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6TO1pEuODaG" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6TO1pEuODaG" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Quick</name>
 			<description lang="und">Quick</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6e16xdf2HYZ" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6e16xdf2HYZ" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Quick</name>
 			<description lang="und">Quick</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6TjNrXfQ7Jc" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6TjNrXfQ7Jc" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Quick</name>
 			<description lang="und">Quick</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6Vl5IhZ39zs" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6Vl5IhZ39zs" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Quick</name>
 			<description lang="und">Quick</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5drV1V2MAiW" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5drV1V2MAiW" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Quick</name>
 			<description lang="und">Quick</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5xSGSUeNYPC" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5xSGSUeNYPC" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Quick</name>
 			<description lang="und">Quick</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5zKVnqnn85r" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5zKVnqnn85r" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Quick</name>
 			<description lang="und">Quick</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6NSkfNVvuQD" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6NSkfNVvuQD" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Quick</name>
 			<description lang="und">Quick</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6CJJxsAoiKk" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6CJJxsAoiKk" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Quick</name>
 			<description lang="und">Quick</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6JttDjoSdat" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6JttDjoSdat" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Quick</name>
 			<description lang="und">Quick</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6Ht1Y3QF9MB" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6Ht1Y3QF9MB" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Quick</name>
 			<description lang="und">Quick</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5qxluHLAPfC" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5qxluHLAPfC" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Congratulations</name>
 			<description lang="und">Congratulations</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6WSIoIF4BAu" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6WSIoIF4BAu" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">GLTS</name>
 			<description lang="und">GLTS</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6ObgCaMLI82" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6ObgCaMLI82" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">GLTS</name>
 			<description lang="und">GLTS</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6XLF0CXCx3p" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6XLF0CXCx3p" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Market</name>
 			<description lang="und">Market</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5mVzH8tjzm4" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5mVzH8tjzm4" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Market</name>
 			<description lang="und">Market</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5z6G83Wsk1h" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5z6G83Wsk1h" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Audience</name>
 			<description lang="und">Audience</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6J4zs6HQDce" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6J4zs6HQDce" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Audience</name>
 			<description lang="und">Audience</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6SVAEUPL3vr" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6SVAEUPL3vr" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Glossary</name>
 			<description lang="und">Glossary</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6ZYbCkCTOkA" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6ZYbCkCTOkA" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Glossary</name>
 			<description lang="und">Glossary</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6puJRZ31AfA" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6puJRZ31AfA" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Glossary</name>
 			<description lang="und">Glossary</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6XnWen6Pn9Q" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6XnWen6Pn9Q" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Vendor</name>
 			<description lang="und">Vendor</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6rm4bLqbuFS" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6rm4bLqbuFS" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Vendor</name>
 			<description lang="und">Vendor</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/665nxVAltJP" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/665nxVAltJP" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Writing</name>
 			<description lang="und">Writing</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6J5RkIoDKdM" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6J5RkIoDKdM" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Simple</name>
 			<description lang="und">Simple</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/68fJ8SwIcgS" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/68fJ8SwIcgS" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Wordy</name>
 			<description lang="und">Wordy</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6cQRuD4RCIe" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6cQRuD4RCIe" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Sentence</name>
 			<description lang="und">Sentence</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5hXS6gi9AtZ" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5hXS6gi9AtZ" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Organized</name>
 			<description lang="und">Organized</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5UpzHaM4ooo" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5UpzHaM4ooo" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Design</name>
 			<description lang="und">Design</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6YkSEtAOffB" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6YkSEtAOffB" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Style</name>
 			<description lang="und">Style</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5uMT8ECq8Kd" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5uMT8ECq8Kd" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Style</name>
 			<description lang="und">Style</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5baaCnBLomy" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5baaCnBLomy" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Usability</name>
 			<description lang="und">Usability</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/66yEQEsy5ag" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/66yEQEsy5ag" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Colors</name>
 			<description lang="und">Colors</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5tmQZC7o2a9" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5tmQZC7o2a9" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Graphic Design</name>
 			<description lang="und">Graphic Design</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6FSApzSaHGV" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6FSApzSaHGV" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Audio</name>
 			<description lang="und">Audio</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5oyWhgefgXt" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5oyWhgefgXt" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Audio</name>
 			<description lang="und">Audio</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6HERZCyuVMv" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6HERZCyuVMv" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Translate</name>
 			<description lang="und">Translate</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6XFnxM3glSt" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6XFnxM3glSt" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Translate</name>
 			<description lang="und">Translate</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6GjQ3RYM9ig" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6GjQ3RYM9ig" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Translate</name>
 			<description lang="und">Translate</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5bKlIza4HvF" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5bKlIza4HvF" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Congratulations</name>
 			<description lang="und">Congratulations</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6Oyk3AMNAjy" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6Oyk3AMNAjy" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Untitled Slide</name>
 			<description lang="und">Untitled Slide</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5jCXwEnTXRW" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5jCXwEnTXRW" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Results Slide</name>
 			<description lang="und">Results Slide</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5ZXUmSk1dNo" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5ZXUmSk1dNo" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">eLearning MTO</name>
 			<description lang="und">eLearning MTO</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5tGTfjvJvj2" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5tGTfjvJvj2" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Menu</name>
 			<description lang="und">Menu</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5lijJ26zvHr" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5lijJ26zvHr" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">True or false? 
 All I need to do is tell my translator that I need a document translated into Chinese. She will know what to do.</name>
 			<description lang="und">True or false? 
 All I need to do is tell my translator that I need a document translated into Chinese. She will know what to do.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5lijJ26zvHr/6h60agiFDxH" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5lijJ26zvHr/6h60agiFDxH" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">True or false? 
 All I need to do is tell my translator that I need a document translated into Chinese. She will know what to do.</name>
 			<description lang="und">True or false? 
@@ -228,7 +228,7 @@ All I need to do is tell my translator that I need a document translated into Ch
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5uw8gbbzDbJ" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5uw8gbbzDbJ" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Target languages
 Target market
 Cultural implications
@@ -245,8 +245,8 @@ Use of idioms, jargon
 Succinct writing
 Voice talent accent
 Graphic design
-Tables
 Review processes
+Tables
 Reviewers</name>
 			<description lang="und">Target languages
 Target market
@@ -264,11 +264,11 @@ Use of idioms, jargon
 Succinct writing
 Voice talent accent
 Graphic design
-Tables
 Review processes
+Tables
 Reviewers</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5uw8gbbzDbJ/6nuIklYyo2z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5uw8gbbzDbJ/6nuIklYyo2z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Target languages
 Target market
 Cultural implications
@@ -285,8 +285,8 @@ Use of idioms, jargon
 Succinct writing
 Voice talent accent
 Graphic design
-Tables
 Review processes
+Tables
 Reviewers</name>
 			<description lang="und">Target languages
 Target market
@@ -304,8 +304,8 @@ Use of idioms, jargon
 Succinct writing
 Voice talent accent
 Graphic design
-Tables
 Review processes
+Tables
 Reviewers</description>
 			<interactionType>choice</interactionType>
 			<correctResponsePatterns>
@@ -408,13 +408,13 @@ Reviewers</description>
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6ligeISGiRy" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6ligeISGiRy" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">True or false? 
 It is cheaper to hire a person to translate the text and have the instructional designer copy and paste the translation into the materials.</name>
 			<description lang="und">True or false? 
 It is cheaper to hire a person to translate the text and have the instructional designer copy and paste the translation into the materials.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6ligeISGiRy/5WWoHFWmFW2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6ligeISGiRy/5WWoHFWmFW2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">True or false? 
 It is cheaper to hire a person to translate the text and have the instructional designer copy and paste the translation into the materials.</name>
 			<description lang="und">True or false? 
@@ -434,13 +434,13 @@ It is cheaper to hire a person to translate the text and have the instructional 
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6V982o2igiW" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6V982o2igiW" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Which statement is true?
 </name>
 			<description lang="und">Which statement is true?
 </description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6V982o2igiW/6ARjVlEYPCS" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6V982o2igiW/6ARjVlEYPCS" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Which statement is true?
 </name>
 			<description lang="und">Which statement is true?
@@ -460,13 +460,13 @@ It is cheaper to hire a person to translate the text and have the instructional 
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5nh2KtVfsnO" type="http://adlnet.gov/expapi/activities/module">
-			<name lang="und">What is the purpose of a glossary in translation?</name>
-			<description lang="und">What is the purpose of a glossary in translation?</description>
+		<activity id="http://6WXF213AJeH_course_id/5nh2KtVfsnO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What is the purpose of a glossary in translation?</name>
+			<description lang="und">What is the purpose of a glossary in translation?</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5nh2KtVfsnO/5mM2nXJ1WTI" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-			<name lang="und">What is the purpose of a glossary in translation?</name>
-			<description lang="und">What is the purpose of a glossary in translation?</description>
+		<activity id="http://6WXF213AJeH_course_id/5nh2KtVfsnO/5mM2nXJ1WTI" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What is the purpose of a glossary in translation?</name>
+			<description lang="und">What is the purpose of a glossary in translation?</description>
 			<interactionType>choice</interactionType>
 			<correctResponsePatterns>
 				<correctResponsePattern>choice_5pqxSmzwXEE</correctResponsePattern>
@@ -490,11 +490,11 @@ It is cheaper to hire a person to translate the text and have the instructional 
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/65GD6hQCWDO" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/65GD6hQCWDO" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">What is a TMS?</name>
 			<description lang="und">What is a TMS?</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/65GD6hQCWDO/6PjDYXKarwp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/65GD6hQCWDO/6PjDYXKarwp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">What is a TMS?</name>
 			<description lang="und">What is a TMS?</description>
 			<interactionType>choice</interactionType>
@@ -516,13 +516,13 @@ It is cheaper to hire a person to translate the text and have the instructional 
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5n6Bi2kEQz5" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5n6Bi2kEQz5" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">What is a TM?
 </name>
 			<description lang="und">What is a TM?
 </description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5n6Bi2kEQz5/6M09SmNPxlW" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5n6Bi2kEQz5/6M09SmNPxlW" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">What is a TM?
 </name>
 			<description lang="und">What is a TM?
@@ -546,11 +546,11 @@ It is cheaper to hire a person to translate the text and have the instructional 
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6igHnkartKm" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6igHnkartKm" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Why do you need a translation management plan?</name>
 			<description lang="und">Why do you need a translation management plan?</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6igHnkartKm/69TgbHPxgvR" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6igHnkartKm/69TgbHPxgvR" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Why do you need a translation management plan?</name>
 			<description lang="und">Why do you need a translation management plan?</description>
 			<interactionType>choice</interactionType>
@@ -584,11 +584,11 @@ It is cheaper to hire a person to translate the text and have the instructional 
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6I8CrYucKsn" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6I8CrYucKsn" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">When pricing translation you should:</name>
 			<description lang="und">When pricing translation you should:</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6I8CrYucKsn/6iarGmhgSC0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6I8CrYucKsn/6iarGmhgSC0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">When pricing translation you should:</name>
 			<description lang="und">When pricing translation you should:</description>
 			<interactionType>choice</interactionType>
@@ -625,11 +625,11 @@ It is cheaper to hire a person to translate the text and have the instructional 
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5wZDbpMrlqa" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5wZDbpMrlqa" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Each translation project should be put out for bid for the lowest quote.</name>
 			<description lang="und">Each translation project should be put out for bid for the lowest quote.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5wZDbpMrlqa/5tPV5vwwlVg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5wZDbpMrlqa/5tPV5vwwlVg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Each translation project should be put out for bid for the lowest quote.</name>
 			<description lang="und">Each translation project should be put out for bid for the lowest quote.</description>
 			<interactionType>choice</interactionType>
@@ -647,11 +647,11 @@ It is cheaper to hire a person to translate the text and have the instructional 
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5i9kVle3xr0" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5i9kVle3xr0" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">What should you look for in a translation vendor? Select all that apply.</name>
 			<description lang="und">What should you look for in a translation vendor? Select all that apply.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5i9kVle3xr0/6YyBiyLdm4X" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5i9kVle3xr0/6YyBiyLdm4X" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">What should you look for in a translation vendor? Select all that apply.</name>
 			<description lang="und">What should you look for in a translation vendor? Select all that apply.</description>
 			<interactionType>choice</interactionType>
@@ -693,11 +693,11 @@ It is cheaper to hire a person to translate the text and have the instructional 
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6cURS3MXLP9" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6cURS3MXLP9" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Why is good writing important for translation? Select all that applies.</name>
 			<description lang="und">Why is good writing important for translation? Select all that applies.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6cURS3MXLP9/6QfInPpigPv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6cURS3MXLP9/6QfInPpigPv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Why is good writing important for translation? Select all that applies.</name>
 			<description lang="und">Why is good writing important for translation? Select all that applies.</description>
 			<interactionType>choice</interactionType>
@@ -725,7 +725,7 @@ It is cheaper to hire a person to translate the text and have the instructional 
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5mqjd9xkwQp" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5mqjd9xkwQp" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Good writing practices that reduce translation costs and ensure a more accurate translation are:
 Select all that apply.
 </name>
@@ -733,7 +733,7 @@ Select all that apply.
 Select all that apply.
 </description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5mqjd9xkwQp/6A050aHTOZ8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5mqjd9xkwQp/6A050aHTOZ8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Good writing practices that reduce translation costs and ensure a more accurate translation are:
 Select all that apply.
 </name>
@@ -766,11 +766,11 @@ Select all that apply.
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5vwaW3u8T0O" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5vwaW3u8T0O" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Style and branding guides are used by companies to create an identifiable brand image and to ensure that all materials produced, look and feel the same, and represent the company in the way it wishes.</name>
 			<description lang="und">Style and branding guides are used by companies to create an identifiable brand image and to ensure that all materials produced, look and feel the same, and represent the company in the way it wishes.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5vwaW3u8T0O/5UrWN0vUgAu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5vwaW3u8T0O/5UrWN0vUgAu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Style and branding guides are used by companies to create an identifiable brand image and to ensure that all materials produced, look and feel the same, and represent the company in the way it wishes.</name>
 			<description lang="und">Style and branding guides are used by companies to create an identifiable brand image and to ensure that all materials produced, look and feel the same, and represent the company in the way it wishes.</description>
 			<interactionType>choice</interactionType>
@@ -788,11 +788,11 @@ Select all that apply.
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5yZYmLuMVJe" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5yZYmLuMVJe" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">What usability issues must you consider when translating materials? </name>
 			<description lang="und">What usability issues must you consider when translating materials? </description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5yZYmLuMVJe/6OSzxk4IvbY" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5yZYmLuMVJe/6OSzxk4IvbY" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">What usability issues must you consider when translating materials? </name>
 			<description lang="und">What usability issues must you consider when translating materials? </description>
 			<interactionType>choice</interactionType>
@@ -838,11 +838,11 @@ Select all that apply.
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5iKuCTGumyg" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5iKuCTGumyg" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Why do colors matter?</name>
 			<description lang="und">Why do colors matter?</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5iKuCTGumyg/6ZkLlbvpwvw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5iKuCTGumyg/6ZkLlbvpwvw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Why do colors matter?</name>
 			<description lang="und">Why do colors matter?</description>
 			<interactionType>choice</interactionType>
@@ -868,11 +868,11 @@ Select all that apply.
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5a5M6LuT1Ag" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5a5M6LuT1Ag" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Would you give the “thumbs up” to this image if it was in material being translated?</name>
 			<description lang="und">Would you give the “thumbs up” to this image if it was in material being translated?</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5a5M6LuT1Ag/6AYyv8gxqjv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5a5M6LuT1Ag/6AYyv8gxqjv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Would you give the “thumbs up” to this image if it was in material being translated?</name>
 			<description lang="und">Would you give the “thumbs up” to this image if it was in material being translated?</description>
 			<interactionType>choice</interactionType>
@@ -890,11 +890,11 @@ Select all that apply.
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6EIQHSRKeGL" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6EIQHSRKeGL" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Would you give the “OK” to this image if it was in material being translated?</name>
 			<description lang="und">Would you give the “OK” to this image if it was in material being translated?</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6EIQHSRKeGL/6RXCGdhYx7P" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6EIQHSRKeGL/6RXCGdhYx7P" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Would you give the “OK” to this image if it was in material being translated?</name>
 			<description lang="und">Would you give the “OK” to this image if it was in material being translated?</description>
 			<interactionType>choice</interactionType>
@@ -912,13 +912,13 @@ Select all that apply.
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5kCCbPmIM2Q" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5kCCbPmIM2Q" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">True or false?
 This cute little baby could cause offense.</name>
 			<description lang="und">True or false?
 This cute little baby could cause offense.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5kCCbPmIM2Q/6qMfZmuL7f0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5kCCbPmIM2Q/6qMfZmuL7f0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">True or false?
 This cute little baby could cause offense.</name>
 			<description lang="und">True or false?
@@ -938,11 +938,11 @@ This cute little baby could cause offense.</description>
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6qPLEOOHwDd" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6qPLEOOHwDd" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">What should you look for in your voice talent? Select all that apply.</name>
 			<description lang="und">What should you look for in your voice talent? Select all that apply.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6qPLEOOHwDd/5o7ypuSIIKI" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6qPLEOOHwDd/5o7ypuSIIKI" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">What should you look for in your voice talent? Select all that apply.</name>
 			<description lang="und">What should you look for in your voice talent? Select all that apply.</description>
 			<interactionType>choice</interactionType>
@@ -970,13 +970,13 @@ This cute little baby could cause offense.</description>
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6J8wffZ85bS" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6J8wffZ85bS" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">True or false?
 I have a 10 page document to translate. Two weeks is sufficient time to translate.</name>
 			<description lang="und">True or false?
 I have a 10 page document to translate. Two weeks is sufficient time to translate.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6J8wffZ85bS/61la7HTMOO8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6J8wffZ85bS/61la7HTMOO8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">True or false?
 I have a 10 page document to translate. Two weeks is sufficient time to translate.</name>
 			<description lang="und">True or false?
@@ -996,13 +996,13 @@ I have a 10 page document to translate. Two weeks is sufficient time to translat
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5wwsqFJpWWG" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5wwsqFJpWWG" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">True or false?
 When planning for translation costs, there are other costs to consider besides word count.</name>
 			<description lang="und">True or false?
 When planning for translation costs, there are other costs to consider besides word count.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5wwsqFJpWWG/6LuM9YrAhto" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5wwsqFJpWWG/6LuM9YrAhto" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">True or false?
 When planning for translation costs, there are other costs to consider besides word count.</name>
 			<description lang="und">True or false?
@@ -1022,13 +1022,13 @@ When planning for translation costs, there are other costs to consider besides w
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6WX9qhjJfNi" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6WX9qhjJfNi" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">True or false?
 My company needs to have some highly technical instructions and specifications translated as long as the translator knows the language well, she will have no trouble with this.</name>
 			<description lang="und">True or false?
 My company needs to have some highly technical instructions and specifications translated as long as the translator knows the language well, she will have no trouble with this.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6WX9qhjJfNi/6fsSyNBL0K2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6WX9qhjJfNi/6fsSyNBL0K2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">True or false?
 My company needs to have some highly technical instructions and specifications translated as long as the translator knows the language well, she will have no trouble with this.</name>
 			<description lang="und">True or false?
@@ -1048,13 +1048,13 @@ My company needs to have some highly technical instructions and specifications t
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6Cqmqoz3euw" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6Cqmqoz3euw" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">True or false?
 I can buy translation software and use it to translate my materials.</name>
 			<description lang="und">True or false?
 I can buy translation software and use it to translate my materials.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6Cqmqoz3euw/6lWlUFFxSvC" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6Cqmqoz3euw/6lWlUFFxSvC" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">True or false?
 I can buy translation software and use it to translate my materials.</name>
 			<description lang="und">True or false?
@@ -1074,13 +1074,13 @@ I can buy translation software and use it to translate my materials.</descriptio
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6cnNEuJwsTM" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6cnNEuJwsTM" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">True or false?
 Machine translation does not produce good results. If a translator advertises this, you should avoid that translator.</name>
 			<description lang="und">True or false?
 Machine translation does not produce good results. If a translator advertises this, you should avoid that translator.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6cnNEuJwsTM/5uFbrou9msU" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6cnNEuJwsTM/5uFbrou9msU" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">True or false?
 Machine translation does not produce good results. If a translator advertises this, you should avoid that translator.</name>
 			<description lang="und">True or false?
@@ -1100,13 +1100,13 @@ Machine translation does not produce good results. If a translator advertises th
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6YkjNo82Ahu" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6YkjNo82Ahu" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">True or false?
 All major translation vendors can translate any language requested.</name>
 			<description lang="und">True or false?
 All major translation vendors can translate any language requested.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6YkjNo82Ahu/5bBVP2xSoBW" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6YkjNo82Ahu/5bBVP2xSoBW" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">True or false?
 All major translation vendors can translate any language requested.</name>
 			<description lang="und">True or false?
@@ -1126,13 +1126,13 @@ All major translation vendors can translate any language requested.</description
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6COaDX30sX3" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6COaDX30sX3" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">True or false?
 As long as a translator is fluent in a language he or she can perform the translation.</name>
 			<description lang="und">True or false?
 As long as a translator is fluent in a language he or she can perform the translation.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6COaDX30sX3/62GNY37nwGA" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6COaDX30sX3/62GNY37nwGA" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">True or false?
 As long as a translator is fluent in a language he or she can perform the translation.</name>
 			<description lang="und">True or false?
@@ -1152,11 +1152,11 @@ As long as a translator is fluent in a language he or she can perform the transl
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5c70jaf6Vda" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5c70jaf6Vda" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">When a language is an idiographical language, such as languages in the Indo-European and Semitic families — where a character represents an idea rather than a sound (alphabetical), you should translate a brand name:</name>
 			<description lang="und">When a language is an idiographical language, such as languages in the Indo-European and Semitic families — where a character represents an idea rather than a sound (alphabetical), you should translate a brand name:</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5c70jaf6Vda/67OwEeCdzfM" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5c70jaf6Vda/67OwEeCdzfM" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">When a language is an idiographical language, such as languages in the Indo-European and Semitic families — where a character represents an idea rather than a sound (alphabetical), you should translate a brand name:</name>
 			<description lang="und">When a language is an idiographical language, such as languages in the Indo-European and Semitic families — where a character represents an idea rather than a sound (alphabetical), you should translate a brand name:</description>
 			<interactionType>choice</interactionType>
@@ -1182,11 +1182,11 @@ As long as a translator is fluent in a language he or she can perform the transl
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6N3HOLCPcjm" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6N3HOLCPcjm" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">When researching the translation of a brand name what qualifications should native-language analysts have? Select all that apply.</name>
 			<description lang="und">When researching the translation of a brand name what qualifications should native-language analysts have? Select all that apply.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6N3HOLCPcjm/6V8F5hfqRy2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6N3HOLCPcjm/6V8F5hfqRy2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">When researching the translation of a brand name what qualifications should native-language analysts have? Select all that apply.</name>
 			<description lang="und">When researching the translation of a brand name what qualifications should native-language analysts have? Select all that apply.</description>
 			<interactionType>choice</interactionType>
@@ -1217,11 +1217,11 @@ As long as a translator is fluent in a language he or she can perform the transl
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5wjEMAE42RY" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5wjEMAE42RY" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Any translation vendor can work in the  exact format and layout of the original document.</name>
 			<description lang="und">Any translation vendor can work in the  exact format and layout of the original document.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5wjEMAE42RY/6BnYxjK41cw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5wjEMAE42RY/6BnYxjK41cw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Any translation vendor can work in the  exact format and layout of the original document.</name>
 			<description lang="und">Any translation vendor can work in the  exact format and layout of the original document.</description>
 			<interactionType>choice</interactionType>
@@ -1239,11 +1239,11 @@ As long as a translator is fluent in a language he or she can perform the transl
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5riOR4VZvDh" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5riOR4VZvDh" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">What is localization?</name>
 			<description lang="und">What is localization?</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5riOR4VZvDh/6MWLTfNA5Bv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5riOR4VZvDh/6MWLTfNA5Bv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">What is localization?</name>
 			<description lang="und">What is localization?</description>
 			<interactionType>choice</interactionType>
@@ -1265,11 +1265,11 @@ As long as a translator is fluent in a language he or she can perform the transl
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6UO4Q1M4p78" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6UO4Q1M4p78" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">What is internationalization?</name>
 			<description lang="und">What is internationalization?</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6UO4Q1M4p78/5oRckCxRr44" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6UO4Q1M4p78/5oRckCxRr44" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">What is internationalization?</name>
 			<description lang="und">What is internationalization?</description>
 			<interactionType>choice</interactionType>
@@ -1291,11 +1291,11 @@ As long as a translator is fluent in a language he or she can perform the transl
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6nMRcWi3WVk" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6nMRcWi3WVk" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">What is globalization?</name>
 			<description lang="und">What is globalization?</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6nMRcWi3WVk/6j0B4hLOdBV" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6nMRcWi3WVk/6j0B4hLOdBV" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">What is globalization?</name>
 			<description lang="und">What is globalization?</description>
 			<interactionType>choice</interactionType>
@@ -1317,11 +1317,11 @@ As long as a translator is fluent in a language he or she can perform the transl
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5wa5cqUayNB" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5wa5cqUayNB" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">My administrative assistant speaks Danish. Can she translate my sell sheet? </name>
 			<description lang="und">My administrative assistant speaks Danish. Can she translate my sell sheet? </description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5wa5cqUayNB/6GLIl1CRohZ" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5wa5cqUayNB/6GLIl1CRohZ" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">My administrative assistant speaks Danish. Can she translate my sell sheet? </name>
 			<description lang="und">My administrative assistant speaks Danish. Can she translate my sell sheet? </description>
 			<interactionType>choice</interactionType>
@@ -1339,11 +1339,11 @@ As long as a translator is fluent in a language he or she can perform the transl
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5u79Pt978mz" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5u79Pt978mz" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">What qualities do good translators have? Select all that apply.</name>
 			<description lang="und">What qualities do good translators have? Select all that apply.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5u79Pt978mz/5n1U7oD20r6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5u79Pt978mz/5n1U7oD20r6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">What qualities do good translators have? Select all that apply.</name>
 			<description lang="und">What qualities do good translators have? Select all that apply.</description>
 			<interactionType>choice</interactionType>
@@ -1372,13 +1372,13 @@ As long as a translator is fluent in a language he or she can perform the transl
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6Nmp5g0tfpY" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6Nmp5g0tfpY" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">True or false?
 Translators deal with both the written word spoken word.</name>
 			<description lang="und">True or false?
 Translators deal with both the written word spoken word.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6Nmp5g0tfpY/6XgrFMHzj41" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6Nmp5g0tfpY/6XgrFMHzj41" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">True or false?
 Translators deal with both the written word spoken word.</name>
 			<description lang="und">True or false?
@@ -1398,13 +1398,13 @@ Translators deal with both the written word spoken word.</description>
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6CRZs2euLEf" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6CRZs2euLEf" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">True or false?
 Interpreters deal with both the written word spoken word.</name>
 			<description lang="und">True or false?
 Interpreters deal with both the written word spoken word.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6CRZs2euLEf/6P3nxsExIxW" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6CRZs2euLEf/6P3nxsExIxW" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">True or false?
 Interpreters deal with both the written word spoken word.</name>
 			<description lang="und">True or false?
@@ -1424,11 +1424,11 @@ Interpreters deal with both the written word spoken word.</description>
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6mSZCosNY7o" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6mSZCosNY7o" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">I should avoid any vendor that claims to use machine translation.</name>
 			<description lang="und">I should avoid any vendor that claims to use machine translation.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6mSZCosNY7o/6q9EOkmu8lq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6mSZCosNY7o/6q9EOkmu8lq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">I should avoid any vendor that claims to use machine translation.</name>
 			<description lang="und">I should avoid any vendor that claims to use machine translation.</description>
 			<interactionType>choice</interactionType>
@@ -1446,7 +1446,7 @@ Interpreters deal with both the written word spoken word.</description>
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6a5NlWvuBvN" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6a5NlWvuBvN" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Select the option that rewrites the following sentence in the active voice:
 
 It was felt that the budget was too large.</name>
@@ -1454,7 +1454,7 @@ It was felt that the budget was too large.</name>
 
 It was felt that the budget was too large.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6a5NlWvuBvN/5jlJ8vohHy1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6a5NlWvuBvN/5jlJ8vohHy1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Select the option that rewrites the following sentence in the active voice:
 
 It was felt that the budget was too large.</name>
@@ -1480,11 +1480,11 @@ It was felt that the budget was too large.</description>
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6C6FxXYd5eY" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6C6FxXYd5eY" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Which sentence is written in the active voice?</name>
 			<description lang="und">Which sentence is written in the active voice?</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6C6FxXYd5eY/6fBdxkjvzLs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6C6FxXYd5eY/6fBdxkjvzLs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Which sentence is written in the active voice?</name>
 			<description lang="und">Which sentence is written in the active voice?</description>
 			<interactionType>choice</interactionType>
@@ -1510,11 +1510,11 @@ It was felt that the budget was too large.</description>
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/62R5abSFs8R" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/62R5abSFs8R" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Which sentence is written using simple language?</name>
 			<description lang="und">Which sentence is written using simple language?</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/62R5abSFs8R/5bhemTH7Oe2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/62R5abSFs8R/5bhemTH7Oe2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Which sentence is written using simple language?</name>
 			<description lang="und">Which sentence is written using simple language?</description>
 			<interactionType>choice</interactionType>
@@ -1540,7 +1540,7 @@ It was felt that the budget was too large.</description>
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6FbneryYlvb" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6FbneryYlvb" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Select the option that rewrites the following sentence using simple language:
 
 We will order all the materials on this list you furnished.</name>
@@ -1548,7 +1548,7 @@ We will order all the materials on this list you furnished.</name>
 
 We will order all the materials on this list you furnished.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6FbneryYlvb/6FuD6Asbcau" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6FbneryYlvb/6FuD6Asbcau" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Select the option that rewrites the following sentence using simple language:
 
 We will order all the materials on this list you furnished.</name>
@@ -1574,7 +1574,7 @@ We will order all the materials on this list you furnished.</description>
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6OTuqDKcB2E" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6OTuqDKcB2E" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">How can you rewrite this statement to make it the least wordy and most direct? 
 
 The snow lay like a blanket. It covered the countryside. </name>
@@ -1582,7 +1582,7 @@ The snow lay like a blanket. It covered the countryside. </name>
 
 The snow lay like a blanket. It covered the countryside. </description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6OTuqDKcB2E/66U5RF4fyP2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6OTuqDKcB2E/66U5RF4fyP2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">How can you rewrite this statement to make it the least wordy and most direct? 
 
 The snow lay like a blanket. It covered the countryside. </name>
@@ -1608,7 +1608,7 @@ The snow lay like a blanket. It covered the countryside. </description>
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6Wqimu6GNt9" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6Wqimu6GNt9" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">What can you remove from this sentence without altering the meaning?
 
 Because of the fact that she had been ill, she missed the first two weeks of classes.</name>
@@ -1616,7 +1616,7 @@ Because of the fact that she had been ill, she missed the first two weeks of cla
 
 Because of the fact that she had been ill, she missed the first two weeks of classes.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6Wqimu6GNt9/6JG6mzDIgf1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6Wqimu6GNt9/6JG6mzDIgf1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">What can you remove from this sentence without altering the meaning?
 
 Because of the fact that she had been ill, she missed the first two weeks of classes.</name>
@@ -1642,11 +1642,11 @@ Because of the fact that she had been ill, she missed the first two weeks of cla
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5XgczutMOlL" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5XgczutMOlL" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">How do you keep costs in line, projects on track, and still turn out high-quality materials? </name>
 			<description lang="und">How do you keep costs in line, projects on track, and still turn out high-quality materials? </description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5XgczutMOlL/5ec9pweMRKh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5XgczutMOlL/5ec9pweMRKh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">How do you keep costs in line, projects on track, and still turn out high-quality materials? </name>
 			<description lang="und">How do you keep costs in line, projects on track, and still turn out high-quality materials? </description>
 			<interactionType>choice</interactionType>
@@ -1664,13 +1664,13 @@ Because of the fact that she had been ill, she missed the first two weeks of cla
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5t8tNCDcVey" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/5t8tNCDcVey" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">True or false?
 The material is out for review and you remember that you forgot to  correct the text in a graphic. You should do this right away to make sure it is not missed later.</name>
 			<description lang="und">True or false?
 The material is out for review and you remember that you forgot to  correct the text in a graphic. You should do this right away to make sure it is not missed later.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/5t8tNCDcVey/6ExNd8GHuxj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/5t8tNCDcVey/6ExNd8GHuxj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">True or false?
 The material is out for review and you remember that you forgot to  correct the text in a graphic. You should do this right away to make sure it is not missed later.</name>
 			<description lang="und">True or false?
@@ -1690,11 +1690,11 @@ The material is out for review and you remember that you forgot to  correct the 
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6inxgem0wNL" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6inxgem0wNL" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">What questions should you ask about your in-house reviewer (SME)?</name>
 			<description lang="und">What questions should you ask about your in-house reviewer (SME)?</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6inxgem0wNL/6TunZVlM4tE" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6inxgem0wNL/6TunZVlM4tE" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">What questions should you ask about your in-house reviewer (SME)?</name>
 			<description lang="und">What questions should you ask about your in-house reviewer (SME)?</description>
 			<interactionType>choice</interactionType>
@@ -1723,11 +1723,11 @@ The material is out for review and you remember that you forgot to  correct the 
 				</component>
 			</choices>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6cFVEwFkYmm" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="http://6WXF213AJeH_course_id/6cFVEwFkYmm" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Who should participate in the translation and review of materials. Select all that apply.</name>
 			<description lang="und">Who should participate in the translation and review of materials. Select all that apply.</description>
 		</activity>
-		<activity id="http://6pmQ1427EBg_course_id/6cFVEwFkYmm/6NK6hrSyoFX" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+		<activity id="http://6WXF213AJeH_course_id/6cFVEwFkYmm/6NK6hrSyoFX" type="http://adlnet.gov/expapi/activities/cmi.interaction">
 			<name lang="und">Who should participate in the translation and review of materials. Select all that apply.</name>
 			<description lang="und">Who should participate in the translation and review of materials. Select all that apply.</description>
 			<interactionType>choice</interactionType>
